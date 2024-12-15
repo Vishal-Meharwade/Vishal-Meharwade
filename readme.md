@@ -1,3 +1,6 @@
+[![](https://visitcount.itsvg.in/api?id=Vishal-Meharwade&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
+
 # Vishal Meharwade 🎧
 
 **_Innovative Developer | MERN Stack Dev | Problem Solver_**
