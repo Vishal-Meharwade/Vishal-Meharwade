@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a dedicated developer passionate about buildin
 
 ## 🌟 **Key Projects**
 
-### [**Printing Press Calculator**](https://github.com/Vishal-Meharwade/Printing-Press-calculator)
+### [**Printing Press Calculator**](https://github.com/Vishal-Meharwade/printing-press-working)
 A web-based calculator for the printing press, enabling cost estimation for multi-color and printing jobs.  
 **Tech Used:** HTML, CSS, JavaScript
 
