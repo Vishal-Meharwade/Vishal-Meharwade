@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a dedicated developer passionate about buildin
 
 ### [**Printing Press Calculator**](https://github.com/Vishal-Meharwade/printing-press-working)
 A web-based calculator for the printing press, enabling cost estimation for multi-color and printing jobs.  
-**Tech Used:** HTML, CSS, JavaScript
+**Tech Used:** React.js, TailwindCSS, JavaScript
 
 ### [**E-commerce Platform**](https://github.com/Vishal-Meharwade/Ecommerce-)
 A full-fledged MERN stack application for managing an e-commerce platform, including user authentication, product management, and shopping cart functionalities.  
