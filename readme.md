@@ -29,64 +29,43 @@
 
 </div>
 
-```javascript
-class Developer {
-  constructor() {
-    this.name = "Vishal S. Meharwade";
-    this.role = "Software Development Engineer";
-    this.location = "Hubli, Karnataka, India";
-    this.workstation = "Infosys";
-    this.degree = "Computer Science @ KLE Tech University";
-  }
+<div align="center">
 
-  getCurrentStatus() {
-    return {
-      learning: ["Advanced React Patterns", "System Design", "Cloud Architecture"],
-      building: ["Scalable Web Applications", "RESTful APIs", "ML Models"],
-      collaborating: ["Cross-functional teams", "Open source projects"],
-      seeking: ["Full-time SDE opportunities", "Innovative challenges"]
-    };
-  }
-}
+### ⟨ **CURRENT STATUS** ⟩
 
-const vishal = new Developer();
-console.log(vishal.getCurrentStatus());
 ```
+◦ Software Development Engineer at Infosys
+◦ Crafting scalable web applications with React & Spring Boot
+◦ Exploring advanced system design patterns
+◦ Contributing to machine learning research projects
+```
+
+</div>
 
 ---
 
 ## ⟨ **TECH STACK** ⟩
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+<div align="center">
 
-**Frontend Universe**
-```typescript
-const frontend = {
-  languages: ["JavaScript", "TypeScript"],
-  frameworks: ["React.js", "Redux"],
-  styling: ["Tailwind CSS", "Material-UI", "CSS3"],
-  tools: ["Vite", "Webpack", "Figma"]
-};
-```
+### ⟨ **TECH STACK** ⟩
 
-</td>
-<td align="center" width="50%">
+**FRONTEND**  
+React.js ▪ TypeScript ▪ Redux ▪ Tailwind CSS ▪ Material-UI ▪ HTML5/CSS3
 
-**Backend Cosmos**
-```python
-backend = {
-    "languages": ["Python", "Java", "C++"],
-    "frameworks": ["Node.js", "Spring Boot", "Express.js"],
-    "databases": ["MongoDB", "PostgreSQL", "MySQL"],
-    "apis": ["RESTful", "GraphQL"]
-}
-```
+**BACKEND**  
+Node.js ▪ Spring Boot ▪ Express.js ▪ RESTful APIs ▪ Microservices
 
-</td>
-</tr>
-</table>
+**DATABASES**  
+MongoDB ▪ PostgreSQL ▪ MySQL ▪ Database Design
+
+**LANGUAGES**  
+JavaScript ▪ TypeScript ▪ Python ▪ Java ▪ C++ ▪ C
+
+**TOOLS & PLATFORMS**  
+Git ▪ VS Code ▪ Postman ▪ Figma ▪ Docker ▪ AWS
+
+</div>
 
 <div align="center">
 
@@ -137,13 +116,14 @@ backend = {
 
 ```yaml
 Experience:
-  - role: "Software Development Engineer Intern"
+  - role: "Software Development Engineer"
     company: "Infosys"
     duration: "Feb 2025 - Present"
     highlights:
-      - "Developed 5+ responsive web applications using React & Redux"
-      - "Enhanced user experience metrics by 25% through design collaboration"
-      - "Built and integrated RESTful APIs using Spring Boot"
+      - "Developed 10+ enterprise-grade web applications using React & Redux"
+      - "Enhanced user experience metrics by 30% through design collaboration"
+      - "Built and deployed scalable RESTful APIs using Spring Boot"
+      - "Leading cross-functional teams in agile development cycles"
   
   - role: "Project Intern"
     company: "CEVI - Center of Visual Intelligence"
@@ -194,8 +174,8 @@ Experience:
 ## ⟨ **LET'S BUILD SOMETHING AMAZING** ⟩
 
 ```
-Currently seeking full-time opportunities in Software Development
-Available for innovative projects and technical collaborations
+Building innovative solutions in Full-Stack Development
+Open to challenging projects and technical collaborations
 ```
 
 **"The best way to predict the future is to create it"**
