@@ -1,218 +1,79 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=60&lines=Vishal+S.+Meharwade;Software+Development+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+# Vishal S. Meharwade
 
-<br>
+**Software Development Engineer @ Infosys**
 
-**`Software Development Engineer @ Infosys`**
+*Building scalable solutions • Machine Learning Research • Full-Stack Development*
 
-<br>
+---
 
-*Building scalable solutions* **•** *Machine Learning Research* **•** *Full-Stack Development*
-
-<br>
-
-<table>
-<tr>
-<td align="center"><a href="https://www.linkedin.com/in/vishalmeharwade"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/></a></td>
-<td align="center"><a href="https://leetcode.com/vishal-sm"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode"/></a></td>
-<td align="center"><a href="mailto:vishalmeharwade1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/></a></td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalmeharwade)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/vishal-sm)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vishalmeharwade1@gmail.com)
 
 </div>
 
-<br>
+## About
 
-## 🧑‍💻 About Me
+Software engineer passionate about creating impactful digital experiences. Currently developing enterprise-grade applications at Infosys while contributing to machine learning research in computer vision.
 
-> Software engineer passionate about creating **impactful digital experiences**. Currently developing enterprise-grade applications at **Infosys** while contributing to machine learning research in computer vision.
+**Focus Areas:** Full-Stack Web Development • Machine Learning • System Design • UI/UX
 
-<table align="right">
-<tr><td>
+## Tech Stack
 
-**Focus Areas**  
-✦ Full-Stack Web Development  
-✦ Machine Learning & AI  
-✦ System Design & Architecture  
-✦ User Experience Design  
+**Languages:** JavaScript, TypeScript, Python, Java, C++  
+**Frontend:** React.js, Redux, Tailwind CSS, Material-UI  
+**Backend:** Node.js, Spring Boot, Express.js  
+**Databases:** MongoDB, PostgreSQL, MySQL  
+**Tools:** Git, Docker, Postman, Figma, VS Code
 
-</td></tr>
-</table>
+## Featured Work
 
-<br><br><br><br><br><br>
+### Printing Press Calculator
+Reduced pricing calculation time by 90% for printing industry professionals  
+*React.js • Tailwind CSS • Responsive Design*  
+[View Project →](https://github.com/Vishal-Meharwade/printing-press-working)
 
-## ⚡ Tech Arsenal
+### E-Commerce Platform
+Full-featured marketplace with authentication and payment integration  
+*MERN Stack • Redux • RESTful APIs*  
+[View Project →](https://github.com/Vishal-Meharwade/Ecommerce-)
 
-<div align="center">
+### TurtleTyping Game
+Interactive typing game with real-time accuracy tracking  
+*JavaScript • DOM Manipulation • Analytics*  
+[View Project →](https://github.com/Vishal-Meharwade/TurtleTyping)
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" /><br>
-<sub><b>Languages</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,spring" /><br>
-<sub><b>Frameworks</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,docker,aws" /><br>
-<sub><b>Databases & Tools</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=tailwind,materialui,figma,git,vscode" /><br>
-<sub><b>Design & Dev Tools</b></sub>
-</td>
-</tr>
-</table>
+### Contact Management System
+Scalable CRUD application with advanced filtering capabilities  
+*MERN Stack • Database Design*  
+[View Project →](https://github.com/Vishal-Meharwade/contact-management-system)
 
-</div>
+## Experience
 
-<br>
+**Software Development Engineer** • *Infosys* • *Feb 2025 - Present*  
+• Developed 10+ enterprise web applications using React and Spring Boot  
+• Improved user experience metrics by 30% through collaborative design processes  
+• Led cross-functional teams in agile development cycles
 
-## 🚀 Featured Projects
+**Project Intern** • *CEVI - Center of Visual Intelligence* • *Oct 2023 - Jun 2024*  
+• Enhanced low-light image processing models achieving 9% NIQE improvement  
+• Improved overexposure correction boosting PSNR from 19.2 to 21.7
 
-<table>
-<tr>
-<td width="50%">
+## Recognition
 
-### 🏭 [Printing Press Calculator](https://github.com/Vishal-Meharwade/printing-press-working)
-**Impact:** `90% time reduction` in pricing calculations  
-**Stack:** `React.js` `Tailwind CSS` `JavaScript`  
-**Outcome:** Streamlined workflow for printing professionals
+• **Published Research:** "WordAhead: Next Word Prediction Engine" - AITA-2024 Scopus-indexed  
+• **DCET Examination:** Rank 1850/28,000+ (Top 6.61% statewide)  
+• **LeetCode:** Contest Rating 1,427  
+• **Academic:** B.Tech CGPA 8.01 • Diploma 86.7%
 
-</td>
-<td width="50%">
-
-### 🛍️ [E-Commerce Platform](https://github.com/Vishal-Meharwade/Ecommerce-)
-**Features:** Full marketplace with authentication  
-**Stack:** `MERN Stack` `Redux` `RESTful APIs`  
-**Outcome:** Complete e-commerce solution
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⌨️ [TurtleTyping Game](https://github.com/Vishal-Meharwade/TurtleTyping)
-**Features:** Real-time typing accuracy tracker  
-**Stack:** `JavaScript` `DOM API` `Analytics`  
-**Outcome:** Gamified learning experience
-
-</td>
-<td width="50%">
-
-### 📇 [Contact Management System](https://github.com/Vishal-Meharwade/contact-management-system)
-**Features:** Advanced CRUD with filtering  
-**Stack:** `MERN Stack` `Database Design`  
-**Outcome:** Scalable contact solution
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 💼 Professional Journey
-
-<table>
-<tr>
-<td width="30%" align="center">
-
-<img src="https://img.shields.io/badge/Current-Software_Engineer-blue?style=for-the-badge" />
-
-**Infosys**  
-*Feb 2025 - Present*
-
-</td>
-<td width="70%">
-
-**Key Achievements:**
-- 🎯 Developed **10+ enterprise web applications** using React and Spring Boot
-- 📈 Improved **user experience metrics by 30%** through design collaboration  
-- 👥 Leading **cross-functional teams** in agile development cycles
-- 🏗️ Built and deployed **scalable RESTful APIs** for production systems
-
-</td>
-</tr>
-<tr>
-<td width="30%" align="center">
-
-<img src="https://img.shields.io/badge/Previous-Research_Intern-green?style=for-the-badge" />
-
-**CEVI Lab**  
-*Oct 2023 - Jun 2024*
-
-</td>
-<td width="70%">
-
-**Research Impact:**
-- 🔬 Enhanced **low-light image processing** achieving **9% NIQE improvement**
-- 🎨 Improved **overexposure correction** boosting **PSNR from 19.2 to 21.7**
-- 🧠 Implemented **advanced neural networks** for computer vision tasks
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🏆 Recognition & Achievements
+---
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+*"Simple, clean code is the foundation of great software"*
 
-📚  
-**Published Research**  
-*AITA-2024 Scopus-indexed*  
-
-</td>
-<td align="center">
-
-🏆  
-**DCET Ranking**  
-*Top 6.61% Statewide*  
-
-</td>
-<td align="center">
-
-⚡  
-**LeetCode Rating**  
-*1,427 Contest Score*  
-
-</td>
-<td align="center">
-
-🎓  
-**Academic Excellence**  
-*8.01 CGPA*  
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 💭 *"Great software is built with passion, precision, and purpose"*
-
-<br>
-
-**Building the future, one line of code at a time** 🚀
-
-<br>
-
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Vishal-Meharwade&left_color=58A6FF&right_color=blue&left_text=Profile%20Views)](https://github.com/Vishal-Meharwade)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Vishal-Meharwade)](https://github.com/Vishal-Meharwade)
 
 </div>
