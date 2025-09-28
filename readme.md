@@ -66,7 +66,7 @@ Scalable CRUD application with advanced filtering capabilities
 • **Published Research:** "WordAhead: Next Word Prediction Engine" - AITA-2024 Scopus-indexed  
 • **DCET Examination:** Rank 1850/28,000+ (Top 6.61% statewide)  
 • **LeetCode:** Contest Rating 1,427  
-• **Academic:** B.Tech CGPA 8.01 • Diploma 86.7%
+• **Academic:** B.Tech CGPA 8.27 • Diploma 86.7%
 
 ---
 
