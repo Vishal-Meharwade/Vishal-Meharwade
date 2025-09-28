@@ -72,7 +72,8 @@ Scalable CRUD application with advanced filtering capabilities
 
 <div align="center">
 
-*"Simple, clean code is the foundation of great software"*
+*"The days are long but the decades are short
+~sam altman"*
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Vishal-Meharwade)](https://github.com/Vishal-Meharwade)
 
