@@ -1,143 +1,207 @@
-# Vishal S. Meharwade
-
-```typescript
-const developer = {
-  name: "Vishal S. Meharwade",
-  role: "Software Development Engineer",
-  location: "Hubli, Karnataka, India",
-  company: "Infosys",
-  education: "Computer Science @ KLE Tech University",
-  experience: ["Full-Stack Development", "Machine Learning", "UI/UX Research"],
-  currentFocus: "Building scalable web applications & enhancing user experiences"
-};
-```
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=Vishal-Meharwade&label=Profile%20Views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalmeharwade)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/vishal-sm)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalmeharwade1@gmail.com)
-
----
-
-## ∎ Currently Working On
-
-- **Software Development Engineer Intern** at Infosys
-- Building responsive web applications with React & Redux
-- Integrating RESTful APIs using Spring Boot
-- Research in **Low Light Image Enhancement** using deep learning
-
----
-
-## ∎ Technical Arsenal
-
-<details>
-<summary><strong>Languages & Frameworks</strong></summary>
-
-```javascript
-const techStack = {
-  languages: ["JavaScript", "TypeScript", "Python", "Java", "C++", "C"],
-  frontend: ["React.js", "Redux", "Material-UI", "Tailwind CSS", "HTML5", "CSS3"],
-  backend: ["Node.js", "Spring Boot", "Express.js"],
-  databases: ["MongoDB", "PostgreSQL", "MySQL"],
-  tools: ["Git", "VS Code", "Postman", "Figma"],
-  concepts: ["RESTful APIs", "State Management", "Responsive Design", "UI/UX"]
-};
-```
-</details>
-
-<details>
-<summary><strong>Specialized Knowledge</strong></summary>
-
-- **Machine Learning**: Neural Networks, Computer Vision, Image Processing
-- **Web Development**: Full-stack MERN applications, API integration
-- **Database Design**: Relational and NoSQL database architecture
-- **Cloud Computing**: Deployment and scalable architecture
-- **UI/UX Design**: User-centered design principles, prototyping
-
-</details>
-
----
-
-## ∎ Featured Projects
-
-### 🏭 [Printing Press Calculator](https://github.com/Vishal-Meharwade/printing-press-working) `Live`
-**Impact**: Reduced pricing calculation time by 90% (10 minutes → 1 minute)
-```
-React.js • Tailwind CSS • JavaScript • Responsive Design
-```
-
-### 🛍️ [E-Commerce Platform](https://github.com/Vishal-Meharwade/Ecommerce-)
-Full-featured e-commerce application with authentication and cart management
-```
-MERN Stack • Redux • RESTful APIs • State Management
-```
-
-### ⌨️ [TurtleTyping - Online Typing Game](https://github.com/Vishal-Meharwade/TurtleTyping) `Live`
-Real-time typing accuracy tracker with visual feedback system
-```
-JavaScript • DOM Manipulation • Real-time Analytics
-```
-
-### 📇 [Contact Management System](https://github.com/Vishal-Meharwade/contact-management-system)
-CRUD application demonstrating full-stack development capabilities
-```
-MERN Stack • MongoDB • Express.js • Node.js
-```
-
----
-
-## ∎ Professional Experience
-
-**Software Development Engineer Intern** `Feb 2025 - Present`  
-*Infosys*
-- Developed 5+ responsive web applications using React & Redux
-- Improved user experience metrics by 25% through design collaboration
-- Built and integrated RESTful APIs using Spring Boot
-
-**Project Intern** `Oct 2023 - Jun 2024`  
-*CEVI - Center of Visual Intelligence*
-- Enhanced low-light image processing achieving 9% NIQE improvement
-- Boosted PSNR from 19.2 to 21.7 in overexposure correction using ResNet
-
----
-
-## ∎ Recognition & Achievements
-
-- 📄 **Published Research**: "WordAhead: Next Word Prediction Engine" - AITA-2024 Scopus-indexed Springer Series
-- 🏆 **DCET Rank**: 1850/28,000+ (Top 6.61% statewide)
-- ⚡ **LeetCode Rating**: 1,427 (Contest Programming)
-- 🎯 **Academic Excellence**: 8.01 CGPA (B.Tech) | 86.7% (Diploma)
-
----
-
-## ∎ Development Stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal-Meharwade&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+# ⟨ Vishal S. Meharwade ⟩
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Meharwade&theme=dark&hide_border=false)
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  > whoami                                                    ║
+║  Software Development Engineer @ Infosys                     ║
+║  Full-Stack Developer | Machine Learning Enthusiast         ║
+║  Building the future, one line of code at a time            ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Meharwade&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vishal-Meharwade.Vishal-Meharwade)](https://github.com/Vishal-Meharwade)
+[![GitHub followers](https://img.shields.io/github/followers/Vishal-Meharwade?label=Follow&style=social)](https://github.com/Vishal-Meharwade/?tab=follow)
 
 </div>
 
 ---
 
-## ∎ Let's Connect
+<div align="center">
 
-Looking for opportunities in **Full-Stack Development** and **Software Engineering**
+### ⟨ **CONNECT** ⟩
 
-- 💼 Open to full-time opportunities and challenging projects
-- 🤝 Available for collaboration on innovative web applications
-- 📧 Reach out: [vishalmeharwade1@gmail.com](mailto:vishalmeharwade1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalmeharwade)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/vishal-sm)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalmeharwade1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/Vishal-Meharwade)
+
+</div>
+
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Vishal S. Meharwade";
+    this.role = "Software Development Engineer";
+    this.location = "Hubli, Karnataka, India";
+    this.workstation = "Infosys";
+    this.degree = "Computer Science @ KLE Tech University";
+  }
+
+  getCurrentStatus() {
+    return {
+      learning: ["Advanced React Patterns", "System Design", "Cloud Architecture"],
+      building: ["Scalable Web Applications", "RESTful APIs", "ML Models"],
+      collaborating: ["Cross-functional teams", "Open source projects"],
+      seeking: ["Full-time SDE opportunities", "Innovative challenges"]
+    };
+  }
+}
+
+const vishal = new Developer();
+console.log(vishal.getCurrentStatus());
+```
+
+---
+
+## ⟨ **TECH STACK** ⟩
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**Frontend Universe**
+```typescript
+const frontend = {
+  languages: ["JavaScript", "TypeScript"],
+  frameworks: ["React.js", "Redux"],
+  styling: ["Tailwind CSS", "Material-UI", "CSS3"],
+  tools: ["Vite", "Webpack", "Figma"]
+};
+```
+
+</td>
+<td align="center" width="50%">
+
+**Backend Cosmos**
+```python
+backend = {
+    "languages": ["Python", "Java", "C++"],
+    "frameworks": ["Node.js", "Spring Boot", "Express.js"],
+    "databases": ["MongoDB", "PostgreSQL", "MySQL"],
+    "apis": ["RESTful", "GraphQL"]
+}
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### ⟨ **SPECIALIZATIONS** ⟩
+**Machine Learning** ◦ **Computer Vision** ◦ **Full-Stack Development** ◦ **UI/UX Research** ◦ **Cloud Computing**
+
+</div>
+
+---
+
+## ⟨ **FEATURED PROJECTS** ⟩
+
+<div align="left">
+
+### `01.` **Printing Press Calculator** [`Live Demo`](https://github.com/Vishal-Meharwade/printing-press-working)
+```
+⚡ Impact: 90% reduction in pricing calculation time (10min → 1min)
+🛠 React.js • Tailwind CSS • JavaScript • Responsive Design
+🎯 Streamlined workflow for printing industry professionals
+```
+
+### `02.` **E-Commerce Platform** [`Repository`](https://github.com/Vishal-Meharwade/Ecommerce-)
+```
+🛍 Full-featured marketplace with authentication & cart management
+🛠 MERN Stack • Redux • RESTful APIs • State Management
+🎯 End-to-end e-commerce solution with modern UX
+```
+
+### `03.` **TurtleTyping Game** [`Live Demo`](https://github.com/Vishal-Meharwade/TurtleTyping)
+```
+⌨️ Real-time typing accuracy tracker with visual feedback
+🛠 JavaScript • DOM Manipulation • Real-time Analytics
+🎯 Gamified learning experience for typing improvement
+```
+
+### `04.` **Contact Management System** [`Repository`](https://github.com/Vishal-Meharwade/contact-management-system)
+```
+📇 CRUD application with robust backend architecture
+🛠 MERN Stack • MongoDB • Express.js • Node.js
+🎯 Scalable contact management solution
+```
+
+</div>
+
+---
+
+## ⟨ **PROFESSIONAL JOURNEY** ⟩
+
+```yaml
+Experience:
+  - role: "Software Development Engineer Intern"
+    company: "Infosys"
+    duration: "Feb 2025 - Present"
+    highlights:
+      - "Developed 5+ responsive web applications using React & Redux"
+      - "Enhanced user experience metrics by 25% through design collaboration"
+      - "Built and integrated RESTful APIs using Spring Boot"
+  
+  - role: "Project Intern"
+    company: "CEVI - Center of Visual Intelligence"
+    duration: "Oct 2023 - Jun 2024"
+    highlights:
+      - "Achieved 9% NIQE improvement in low-light image processing"
+      - "Boosted PSNR from 19.2 to 21.7 using ResNet architecture"
+```
+
+---
+
+## ⟨ **ACHIEVEMENTS UNLOCKED** ⟩
+
+<div align="center">
+
+| Achievement | Details |
+|-------------|---------|
+| 📚 **Published Research** | "WordAhead: Next Word Prediction Engine" - AITA-2024 Scopus-indexed |
+| 🏆 **DCET Ranking** | Rank 1850/28,000+ candidates (Top 6.61% statewide) |
+| ⚡ **LeetCode Rating** | Contest Rating: 1,427 |
+| 🎓 **Academic Excellence** | B.Tech: 8.01 CGPA • Diploma: 86.7% |
+
+</div>
+
+---
+
+## ⟨ **DEVELOPMENT METRICS** ⟩
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishal-Meharwade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Meharwade&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Meharwade&theme=tokyonight" alt="GitHub Streak"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-Meharwade&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-*"Code is poetry written in logic"*
+## ⟨ **LET'S BUILD SOMETHING AMAZING** ⟩
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+```
+Currently seeking full-time opportunities in Software Development
+Available for innovative projects and technical collaborations
+```
+
+**"The best way to predict the future is to create it"**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 
 </div>
